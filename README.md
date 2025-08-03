@@ -6,9 +6,10 @@ During my final two years of undergrad, I became interested in neurotech, specif
 This repo is my ongoing journal and portfolio for exploring BCI through personal projects, literature reviews, simulations, and (eventually) collaborative work.
 
 Topics I’m currently focusing on include:
+- Embedded signal acquisition systems
+- Microcontroller-based firmware for BCI prototyping
 - Electrode impedance and electrochemical analysis
-- Neural interface materials (e.g., PEDOT, IrOx, flexible substrates)
-- COMSOL simulations of tissue-device interactions
+- Neural interface materials
 - Long-term implant performance and immune response
 
 Thanks for checking this out. I'm always open to feedback, conversation, or opportunities to contribute to the neurotech community.
